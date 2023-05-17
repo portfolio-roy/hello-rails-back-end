@@ -74,7 +74,7 @@ Here is the [Front-End](https://github.com/utsargo/hello-react-front-end) of thi
 - Clone this repository to your desired folder:
 
 ```sh
- git clone https://github.com/PrantoshB/hello-rails-back-end.git
+ git clone https://github.com/portfolio-roy/hello-rails-back-end.git
 ```
 
 - Navigate into the cloned folder
